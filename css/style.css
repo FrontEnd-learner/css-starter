@@ -56,7 +56,7 @@ img{
 .box:hover{
     transform: perspective(2000px) rotateX(40deg);
     /* transform: scale(1.5); */
-    /* transform: translate(100px, 100px); */
+    transform: translatey(100px);
     /* transform: scale(1.5); */
     /* transform: scaleX(1.5); */
     /* transform: scaleX(2.5) scaleY(0.5); */
